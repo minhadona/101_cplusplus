@@ -1,0 +1,3 @@
+g++ -o compiledprogramname source.cpp
+./myprogram
+
