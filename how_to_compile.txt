@@ -1,3 +1,24 @@
+notes:
+// compiling
 g++ -o compiledprogramname source.cpp
 ./myprogram
+.
+// iostream contains basic functions for input and output operations
+// main function is who calls all operations
+// std::out stands for standard char output 
+
+// << sending input from right to left ((output)) 
+//single line comment // 
+//block comment /*    blo blo blo */ 
+
+double type uses . instead of ,   ex 7,5 for seven and half
+
+types: int, char, double, bool, std::string, 
+use CONST to not let your variable be changed after the first assigned value 
+
+//accepts single quote ???
+
+concat: std::cout << 24 << "cm";  // outputs 24cm
+
+namespaces introduction (program2) 
 
